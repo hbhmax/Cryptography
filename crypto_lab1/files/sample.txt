@@ -1,0 +1,3 @@
+Hello! This is a sample text file for the crypto lab.
+Second line: test test test.
+Third line with numbers 1234567890.
