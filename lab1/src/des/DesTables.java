@@ -1,3 +1,5 @@
+package des;
+
 public class DesTables {
 
     public static final int[] IP = {

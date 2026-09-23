@@ -1,3 +1,5 @@
+package core;
+
 public class Util {
 
     public static byte[] xor(byte[] a, byte[] b) {

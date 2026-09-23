@@ -1,3 +1,8 @@
+package deal;
+
+import interfaces.SymmetricCipher;
+import feistel.FeistelNetwork;
+
 public class DEAL implements SymmetricCipher {
     private FeistelNetwork network;
 

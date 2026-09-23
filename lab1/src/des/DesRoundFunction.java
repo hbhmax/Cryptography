@@ -1,3 +1,9 @@
+package des;
+
+import interfaces.EncryptionTransformation;
+import core.Permutation;
+import core.Util;
+
 public class DesRoundFunction implements EncryptionTransformation {
 
     public byte[] transform(byte[] block, byte[] roundKey) {

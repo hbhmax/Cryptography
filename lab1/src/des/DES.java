@@ -1,3 +1,9 @@
+package des;
+
+import interfaces.SymmetricCipher;
+import feistel.FeistelNetwork;
+import core.Permutation;
+
 public class DES implements SymmetricCipher {
     private FeistelNetwork network;
 

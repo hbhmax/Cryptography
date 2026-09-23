@@ -1,3 +1,5 @@
+package modes;
+
 public enum CipherMode {
     ECB,
     CBC,

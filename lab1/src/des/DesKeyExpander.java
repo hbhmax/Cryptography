@@ -1,3 +1,9 @@
+package des;
+
+import interfaces.KeyExpander;
+import core.Permutation;
+import core.Util;
+
 public class DesKeyExpander implements KeyExpander {
 
     public byte[][] generateRoundKeys(byte[] key) {

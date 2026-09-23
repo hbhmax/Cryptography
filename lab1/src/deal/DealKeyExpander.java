@@ -1,3 +1,9 @@
+package deal;
+
+import interfaces.KeyExpander;
+import core.Util;
+import des.DES;
+
 import java.util.Arrays;
 
 public class DealKeyExpander implements KeyExpander {

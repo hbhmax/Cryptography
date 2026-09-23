@@ -1,3 +1,5 @@
+package modes;
+
 public enum PaddingMode {
     ZEROS,
     ANSI_X923,

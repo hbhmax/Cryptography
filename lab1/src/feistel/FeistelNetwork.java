@@ -1,3 +1,10 @@
+package feistel;
+
+import interfaces.KeyExpander;
+import interfaces.EncryptionTransformation;
+import interfaces.SymmetricCipher;
+import core.Util;
+
 import java.util.Arrays;
 
 public class FeistelNetwork implements SymmetricCipher {

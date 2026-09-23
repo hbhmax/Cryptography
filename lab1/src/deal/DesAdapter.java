@@ -1,3 +1,9 @@
+package deal;
+
+import interfaces.EncryptionTransformation;
+import core.Util;
+import des.DES;
+
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 

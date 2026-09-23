@@ -1,3 +1,5 @@
+package core;
+
 public class Permutation {
 
     public static byte[] permute(byte[] value, int[] rule, boolean lowToHigh, int startIndex) {
